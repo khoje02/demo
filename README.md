@@ -1,2 +1,3 @@
 # demo
-this is my personal  repository
+this is my personal repository
+Author: Swati Khoje
